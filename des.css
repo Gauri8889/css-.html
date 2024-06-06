@@ -1,0 +1,23 @@
+.parent{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+}
+.ch{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+}
+.ch1{
+   background-color: darkcyan;
+}
+.ch2{
+    background-color: brown;
+}
+.ch3{
+    background-color:lawngreen;
+}
+.ch4{
+    background-color: crimson;
+}

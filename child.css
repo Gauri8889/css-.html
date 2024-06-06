@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    background-color: brown;
+    justify-content: center;
+    gap: 40px;
+    padding: 30px;
+    align-items: center;
+}
+
+

@@ -1,0 +1,21 @@
+
+.box{
+  
+  border: 2px solid brown;
+  height: 500px;
+  width: 250px;
+  text-align: center;
+
+}
+.main2{
+    text-align: center;
+
+}
+.c1{
+    text-align: left;
+    background-color: rgb(1, 162, 226);
+    border-radius: 25px;
+    color: whitesmoke;
+    border-color: rgb(17, 174, 236);
+   
+}
