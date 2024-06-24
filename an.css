@@ -1,0 +1,19 @@
+.head{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    position: relative;
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes slide{
+    to{
+        left:300px;
+        top:0px
+    }
+    from{
+        left:0px;
+        top:0px;
+    }
+}

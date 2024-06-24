@@ -1,0 +1,27 @@
+p:first-child{
+    background-color: aqua;
+}
+p:last-child{
+    background-color: brown;
+
+}
+p:nth-child(even){
+    background-color: crimson;
+    
+}
+input::placeholder{
+    color: blue;
+}
+.para::first-line{
+    background-color: darkmagenta;
+    font-size: 30px;
+}
+.pare::first-letter{
+     font-size: 35px;
+     color:red
+}
+.head::selection{
+    background-color: blueviolet;
+    color: chartreuse;
+
+}
